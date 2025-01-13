@@ -1,0 +1,10 @@
+===============================================
+PostModuleTest
+===============================================
+Test: testEditPost
+-----------------------------------------------
+Edit Post: PASS
+Post updated successfully.
+Test status: PASSED
+Duration: 3.567 seconds
+-----------------------------------------------

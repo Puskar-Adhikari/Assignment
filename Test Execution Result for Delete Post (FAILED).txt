@@ -1,0 +1,13 @@
+===============================================
+PostModuleTest
+===============================================
+Test: testDeletePost
+-----------------------------------------------
+Delete Post: FAILED - Post not deleted.
+org.testng.Assert.assertTrue(Assert.java:42)
+AssertionError: Delete Post failed.
+	at tests.PostModuleTest.testDeletePost(PostModuleTest.java:58)
+
+Test status: FAILED
+Duration: 4.876 seconds
+-----------------------------------------------

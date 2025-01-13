@@ -1,0 +1,13 @@
+===============================================
+PostModuleTest
+===============================================
+Test: testAddPost
+-----------------------------------------------
+Add Post: FAILED - Success message not displayed.
+org.testng.Assert.assertTrue(Assert.java:42)
+AssertionError: Add Post failed.
+	at tests.PostModuleTest.testAddPost(PostModuleTest.java:45)
+
+Test status: FAILED
+Duration: 5.234 seconds
+-----------------------------------------------
